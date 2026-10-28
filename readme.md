@@ -2,7 +2,6 @@
 
 - Nepieciešams ievākt datus.
 
-
 - Ideja grupai - 
 
 - 4-5 cilvēki vienā grupā.
