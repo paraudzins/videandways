@@ -11,5 +11,6 @@
 **4-5 cilvēki vienā grupā.**
 
 **Piektdiena varētu būt konsultāciju laiks 30.10.2026**
+10:00 līdz 12:20
 
 **Gala produkts ir grupas prezentācija. (viena prezentācija - vienai grupai.)**
