@@ -1,4 +1,4 @@
-- Darbs ir mini-audits par kāda procesa, ēkas u.t.t. ietekmi uz vidi.
+- Darbs ir mini-audits par kāda procesa, ēkas, politikas ietekmi uz vidi.
 
 - Nepieciešams ievākt datus.
 
