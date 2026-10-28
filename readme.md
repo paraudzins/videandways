@@ -1,9 +1,9 @@
 ** Darbs ir mini-audits par kāda procesa, ēkas, politikas ietekmi uz vidi.
 
-** Nepieciešams ievākt datus
-Varam izmantot arī vispārpieejamus datus.
-Varam izmantot datus no iekārtu tehniskajām lapām.
-CO2 aprēķins būs pieejams prezentācijā e-studijās.
+** Nepieciešams ievākt datus **
+- Varam izmantot arī vispārpieejamus datus.
+- Varam izmantot datus no iekārtu tehniskajām lapām.
+- CO2 aprēķins būs pieejams prezentācijā e-studijās.
 
 ** Ideja grupai - 
 
