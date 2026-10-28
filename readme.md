@@ -1,4 +1,5 @@
 **Darbs ir mini-audits par kāda procesa, ēkas, politikas ietekmi uz vidi.**
+- Papildus informācija būs pieejama e-studijās.
 
 **Nepieciešams ievākt datus**
 - Varam izmantot arī vispārpieejamus datus.
